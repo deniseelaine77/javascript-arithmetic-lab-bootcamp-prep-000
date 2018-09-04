@@ -19,13 +19,13 @@ function divide(a, b) {
 //   return number += n 
 // }
 
-function inc(n){ //Increment a by 1 and return the result.
-  var number = n + 1;
+function inc(n){
+  var number = n += 1;
   return number;
 }
 
-function dec(n){ //Decrement a by 1 and return the result.
-  var number = n - 1;
+function dec(n){ 
+  var number = n -= 1;
   return number;
 }
 
