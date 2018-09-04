@@ -24,8 +24,8 @@ function inc(n){ //Increment a by 1 and return the result.
   return number;
 }
 
-function dec(a){ //Decrement a by 1 and return the result.
-  number = a - 1;
+function dec(n){ //Decrement a by 1 and return the result.
+  number = n - 1;
   return number;
 }
 
