@@ -14,7 +14,6 @@ function divide(a, b) {
   return a / b
 }
 
-var i = 640 
 function inc(n) {
   return i += n
 }
