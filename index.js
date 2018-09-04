@@ -14,8 +14,8 @@ function divide(a, b) {
   return a / b
 }
 
-function inc(number, n) {
-  return number += n 
+function inc(a, n) {
+  return a += n 
 }
 
 function makeInt(n) {
