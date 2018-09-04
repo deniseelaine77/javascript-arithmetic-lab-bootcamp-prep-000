@@ -19,6 +19,7 @@ function inc(n) {
   return number += n 
 }
 
+number = 1;
 function dec(n) {
   return number -= n
 }
