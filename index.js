@@ -19,7 +19,7 @@ function inc(n) {
   return number += n 
 }
 
-var num = 1
+var num = 10
 function dec(n) {
   return num -= n
 }
