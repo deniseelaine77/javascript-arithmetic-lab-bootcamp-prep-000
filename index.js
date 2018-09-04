@@ -17,3 +17,7 @@ function divide(a, b) {
 function makeInt(n) {
   return parseInt(n)
 }
+
+function preserveDecimal(n) {
+  return parseFloat()
+}
