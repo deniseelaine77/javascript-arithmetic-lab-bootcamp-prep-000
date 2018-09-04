@@ -21,7 +21,7 @@ function inc(n) {
 
 number = 1
 function dec(n) {
-  return num -= n
+  return number -= n
 }
 
 function makeInt(n) {
