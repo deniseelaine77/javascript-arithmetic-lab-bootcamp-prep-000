@@ -15,5 +15,5 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return i += n
+  return  += n
 }
