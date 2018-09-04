@@ -14,6 +14,10 @@ function divide(a, b) {
   return a / b
 }
 
+function inc(n) {
+  return 
+}
+
 function makeInt(n) {
   return parseInt(n)
 }
