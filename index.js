@@ -13,3 +13,8 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
+
+var i = 5 
+function inc(n) {
+  return i += n
+}
