@@ -19,6 +19,10 @@ function inc(n) {
   return number += n 
 }
 
+number = 10
+function dec(n) {
+  return number -= n
+}
 
 function makeInt(n) {
   return parseInt(n, 10)
